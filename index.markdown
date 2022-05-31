@@ -5,8 +5,9 @@
 layout: home
 image: gesis_icon2.png
 ---
-<link rel="menu-icon" type="/images/gesis_icon4.png" alt="">
 ![gesis icon](/images/gesis_icon3.png)
+
+<link rel="menu-icon" type="/images/gesis_icon4.png" alt="">
 <div style="background-color: silver;">
 <p><strong>Project motivation</strong> is to build an automatic system to summarize scientific results and consolidation of metadata for research to increase findability and reusability of research data. <i>Metadata</i> is defined as as the data providing information about one or more aspects of the data, it is used to summarize basic information about data which can make tracking and working with specific data easier.</p>
 
