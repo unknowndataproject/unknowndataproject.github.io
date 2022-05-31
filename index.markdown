@@ -24,12 +24,12 @@ image: gesis_icon2.png
 
 <p class="trigger">If you have questions, you can refer to <a href="https://github.com/allenai/SciREX"> here</a></p>
 
-<p class="trigger">You can find the source code for the Unknown Data project new theme at:<a href="https://github.com/jekyll/jekyll">GESIS_Github</a></p>
+<p class="trigger">You can find the source code for the Unknown Data project new theme at:<a href="[https://github.com/jekyll/jekyll](https://github.com/GESIS-UnknownData/GESIS-UnknownData.github.io)">GESIS_Github</a></p>
 
 <p class="trigger">This is the base Unknown Data project theme. You can find out more info about customizing your the theme, as well as basic usage documentation at <a href="https://www.dagstuhl.de/ueber-dagstuhl/projekte/unknown-data/">GESIS</a></p>
 
 
-<p class="trigger">You can find the source code for Jekyll at <a href="https://github.com/allenai/SciREX">GitHub</a></p>
+<p class="trigger">You can find the source code for SciRex at <a href="https://github.com/allenai/SciREX">GitHub</a></p>
 </div>
 
 
