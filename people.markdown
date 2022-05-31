@@ -25,7 +25,7 @@ GESIS is part of the Leibniz Association and is funded by the federal and state 
 :-------------------------:|:-------------------------:
 ![Brigitte_photo](https://gris.gesis.org/files/photos/684.jpg)  |  ![Yousef_photo](https://gris.gesis.org/files/photos/1161.jpg)
 
-| *Chandrika Sundakampalayam Paramasivam* |
+| *Chandrika Paramasivam* |
 |:-------------------------:|
 |![Chandu_photo](/images/Chandu_photo.png)|
 
