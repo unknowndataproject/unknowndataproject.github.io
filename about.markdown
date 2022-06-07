@@ -27,7 +27,8 @@ We
 
 Two disciplines, computer science and the social sciences, benefit from the project results through use case pilots. The DBLP bibliography and the GESIS portals are among the most respected and widely used metadata collections in their respective fields. Both are used by many other search engines such as Google Dataset Search and CESSDA. Unknown Data greatly improves the effectiveness and efficiency of researchers in their search for data by 
 1. creating a centralized and comprehensive repository of metadata about research data for the first time in computer science and 
-2. improving the quality and quantity of dataset metadata in the social sciences is fundamentally improved.
+2. improving the quality and quantity of dataset metadata in the social sciences is fundamentally improved
+
 <br>
 
 Record citations extracted from websites or publications enable an assessment of the impact of datasets - a crucial characteristic for assessing their usefulness and reuse.
