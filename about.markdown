@@ -9,28 +9,27 @@ image: Leibniz_pic.png
 [Unknown Data - Mining & consolidating research dataset metadata on the web](https://www.dagstuhl.de/ueber-dagstuhl/projekte/unknown-data/)
 
 <br>
-The research data is essential to facilitate scientific progress, yet, many valuable datasets are hidden on web sites and small repositories or are hard to find due to insufficient metadata. Not all the scientific or research works are publicaly accesible to everyone and only few researchers pro-actively share dataset metadata through public portals, and it is expensive to access few websites or resources. Therefore, we would like to provide means to automatically discover, extract, and publish metadata about research data that is hidden on the Web or in scholarly publications. 
+Research data is essential for science, but many datasets are hidden on websites and in small repositories or difficult to find due to insufficient metadata. Only a fraction of researchers proactively make dataset metadata available on public portals, and curating it is costly. Unknown Data creates an infrastructure to automatically discover, extract and make available metadata about research data hidden on the web or in publications. The aim is to increase the findability and reusability of research data by 
+1. improving the quality of the metadata, in particular regarding the provenance and reuse of the data, and 
+2. making data sets visible that cannot yet be found in public repositories.
 
-The objective of the project is to improve findability and re-usability of research data by: 
-1. improving metadata quality, in particular with respect to authority and use of existing datasets and 
-2. uncovering datasets that are not yet reflected in public data repositories and registries. 
 
 <br>
-Main approach in out task are:
-1. utilizing data citations from scholarly articles and web pages to collect metadata about relevant datasets, 
-2. discovering datasets and their context by crawling web pages, 
-3. consolidating metadata by linking information from domain-specific databases, 
-4. facilitating high metadata quality by establishing a discipline-specific curation process, and 
-5. ensuring long-term availability of original data sources by archiving relevant web pages. 
+We 
+1. use citations from scholarly articles and websites to find metadata about datasets, 
+2. discover datasets and their context by crawling relevant websites, 
+3. consolidate metadata by linking it to information from domain-specific databases, 
+4. secure Metadata quality by establishing a discipline-specific curation process and 
+5. ensuring long-term availability of the original sources by archiving relevant websites. Extracting metadata about research data from websites and publications is a novel approach that increases the visibility of “long tail” datasets while providing crucial insights into the actual use and impact of (known) research data.
 <br>
 
-Obtaining metadata about research data directly from web sources and publications is a novel approach, increasing the visibility of “long tail” datasets while at the same time providing crucial insights into the actual use and impact of (known) datasets. The results of this project will benefit two disciplines, computer science and the social sciences, through use case pilots. The DBLP computer science bibliography and the GESIS portals, accessible through GESIS Search, are among the most prestigious and widely-used metadata collections in their respective fields.
-
-Through the project, the effectiveness and efficiency of researchers in common data search use cases will be significantly improved by 
-1. creating a centralized and comprehensive collection of metadata about research datasets for the first time in computer science and 
-2. fundamentally improving quality and quantity of dataset metadata in the social sciences. 
-
-Dataset citations extracted from web pages or publications are crucial features for assessing the usefulness of research data and thereby can boost its reuse.
+Two disciplines, computer science and the social sciences, benefit from the project results through use case pilots. The DBLP bibliography and the GESIS portals are among the most respected and widely used metadata collections in their respective fields. Both are used by many other search engines such as Google Dataset Search and CESSDA. Unknown Data greatly improves the effectiveness and efficiency of researchers in their search for data by 
+1. creating a centralized and comprehensive repository of metadata about research data for the first time in computer science and 
+2. improving the quality and quantity of dataset metadata in the social sciences is fundamentally improved.
+<br>
+Record citations extracted from websites or publications enable an assessment of the impact of datasets - a crucial characteristic for assessing their usefulness and reuse.
+<br>
+All collected metadata will be permanently made publicly available as Linked Open Data and via REST APIs to make research data discoverable, accessible, interoperable and reusable for both researchers and machines (according to the FAIR Data Principles). All software is made available as open source and the methods developed can be adapted to other disciplines.
 
 ![all icon](/images/all_pic.png)
 
