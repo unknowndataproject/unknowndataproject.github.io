@@ -34,6 +34,3 @@ image: gesis_icon2.png
 
 
 ![all icon](/images/all_pic.png)
-
-
-<div class="footer-col"><a href="https://www.gesis.org/en/institute/imprint">Imprint |</a><a href="https://www.gesis.org/en/institute/data-protection"> Data Protection |</a> © GESIS</div>
