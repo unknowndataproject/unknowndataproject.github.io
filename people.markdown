@@ -64,8 +64,6 @@ transfer of knowledge between academia and industry.
 
 ## IBI
 
-![Hum](/images/Humbolt_pic.png)
-
 | *[Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)* |
 |:-------------------------:|
 |![Robert_photo](https://amor.cms.hu-berlin.de/~jaeschkr/img/me.jpg)|
