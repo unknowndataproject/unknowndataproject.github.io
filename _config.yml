@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,20 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Unknown Data - Mining & consolidating research dataset metadata on the web
-email: info@gesis.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Unknown Data project © GESIS
+title: Unknown Data
+email: ibi-unknowndata@lists.hu-berlin.de
+description: Mining and consolidating research dataset metadata on the Web
 footer_text:
-  Imprint by <a href="https://www.gesis.org/en/institute/imprint">Imprint</a>
-  Data Protection by <a href="https://www.gesis.org/en/institute/data-protection">DataPro</a>
-  © GESIS
-keywords: jekyll, GESIS
+keywords: research data, web mining, dataset metadata, GESIS, LZI, Humboldt-Universität zu Berlin
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://unknowndataproject.github.io/"
 logo: /images/gesis_icon3.png
-twitter_username: GESIS
-github_username:  GESIS
+github_username:  unknowndataproject
 
 # Build settings
 theme: minima
