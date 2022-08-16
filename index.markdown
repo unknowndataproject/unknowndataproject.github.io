@@ -11,9 +11,10 @@ portals, and curation of such metadata collections is costly. Unknown
 Data will provide means to automatically discover, extract, and
 publish metadata about research data that is hidden on the Web or in
 scholarly publications. Thus, the project's goal is to **improve
-findability and re-usability of research data** by (a) improving metadata quality, in particular with respect to authority
-and use of existing datasets and (b) uncovering datasets that are not yet reflected in public data
-repositories and registries.
+findability and re-usability of research data** by (a) improving
+metadata quality, in particular with respect to authority and use of
+existing datasets and (b) uncovering datasets that are not yet
+reflected in public data repositories and registries.
 
 Our approach
 1. utilises data citations from scholarly articles and web pages to
