@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dissemenation
+title: Dissemination
 permalink: /dissemination/
 ---
 
