@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-# Project Partners
+## Project Partners
 
 [GESIS – Leibniz Institute for the Social
 Sciences](https://www.gesis.org/) (formerly Society of Social Science
@@ -45,9 +45,9 @@ and supports continuing and advanced academic education and the
 transfer of knowledge between academia and industry.
 
 
-# Project Team
+## Project Team
 
-## GESIS
+### GESIS
 
 [Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze)             |  [Prof. Dr. Alexia Katsanidou ](https://www.gesis.org/en/institute/staff/person/alexia.katsanidou)
 :-------------------------:|:-------------------------:
@@ -62,14 +62,14 @@ transfer of knowledge between academia and industry.
 |![Chandu_photo](/images/Chandu_photo.png)|
 
 
-## IBI
+### IBI
 
 | *[Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)* |
 |:-------------------------:|
 |![Robert_photo](https://amor.cms.hu-berlin.de/~jaeschkr/img/me.jpg)|
 
 
-## LZI
+### LZI
 
 | *[Dr. Marcel R. Ackermann](https://www.dagstuhl.de/ueber-dagstuhl/organisation/marcel-r-ackermann/)* |
 |:-------------------------:|
