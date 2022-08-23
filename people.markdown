@@ -74,7 +74,7 @@ transfer of knowledge between academia and industry.
 
 |[Dr. Marcel R. Ackermann](https://dagstuhl.de/ackermann)       |  Benedikt Maria Beckermann |
 |:-------------------------:|:-------------------------:|
-|<img alt="Marcel_photo" src="images/MRA_photo.png" height="300" />  |  ![Bene_photo](/images/no_photo.png)|
+|<img alt="Marcel_photo" src="/images/MRA_photo.png" height="300" />  |  ![Bene_photo](/images/no_photo.png)|
 
 |Martin Blum                                                    |
 |:-------------------------:|
