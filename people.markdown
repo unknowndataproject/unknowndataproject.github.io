@@ -49,28 +49,30 @@ transfer of knowledge between academia and industry.
 
 ### GESIS
 
-[Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze)             |  [Prof. Dr. Alexia Katsanidou ](https://www.gesis.org/en/institute/staff/person/alexia.katsanidou)
-:-------------------------:|:-------------------------:
-![pic111](https://gris.gesis.org/files/photos/1061.jpg)  |  ![pic22](https://gris.gesis.org/files/photos/683.jpg)
+|[Prof. Dr. Stefan Dietze](https://www.gesis.org/en/institute/staff/person/stefan.dietze)             |  [Prof. Dr. Alexia Katsanidou](https://www.gesis.org/en/institute/staff/person/alexia.katsanidou)      |
+|:-------------------------:|:-------------------------:|
+|![Stefan_photo](https://gris.gesis.org/files/photos/1061.jpg)  |  ![Alexia_photo](https://gris.gesis.org/files/photos/683.jpg) |
 
-[Dr. Brigitte Mathiak](https://www.gesis.org/en/institute/staff/person/brigitte.mathiak)             |  [Yousef Younes ](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Yousef.Younes)
-:-------------------------:|:-------------------------:
-![Brigitte_photo](https://gris.gesis.org/files/photos/684.jpg)  |  ![Yousef_photo](https://gris.gesis.org/files/photos/1161.jpg)
+|[Dr. Brigitte Mathiak](https://www.gesis.org/en/institute/staff/person/brigitte.mathiak)             |  [Yousef Younes](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Yousef.Younes)           |
+|:-------------------------:|:-------------------------:|
+|![Brigitte_photo](https://gris.gesis.org/files/photos/684.jpg)  |  ![Yousef_photo](https://gris.gesis.org/files/photos/1161.jpg)    |
 
-| *Chandrika Sundakampalayam Paramasivam* |
+|Chandrika Sundakampalayam Paramasivam                                                                |
 |:-------------------------:|
-|![Chandu_photo](/images/Chandu_photo.png)|
-
+|![Chandu_photo](/images/Chandu_photo.png | height=300)          |
 
 ### IBI
 
-| *[Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)* |
+|[Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)|
 |:-------------------------:|
 |![Robert_photo](https://amor.cms.hu-berlin.de/~jaeschkr/img/me.jpg)|
 
-
 ### LZI
 
-| *[Dr. Marcel R. Ackermann](https://www.dagstuhl.de/ueber-dagstuhl/organisation/marcel-r-ackermann/)* |
+|[Dr. Marcel R. Ackermann](https://dagstuhl.de/ackermann)       |  Benedikt Maria Beckermann |
+|:-------------------------:|:-------------------------:|
+|![Marcel_photo](/images/MRA_photo.png | height=300)    |  ![Bene_photo](/images/no_photo.png | height=300)|
+
+|Martin Blum                                                    |
 |:-------------------------:|
-|![Marcel_photo](https://www.dagstuhl.de/typo3temp/pics/fa14e006f0.jpg)|
+|![Martin_photo](/images/no_photo.png | height=300)     |
