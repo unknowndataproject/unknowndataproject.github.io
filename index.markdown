@@ -37,4 +37,4 @@ Further Web sites:
 2. at [LZI](https://www.dagstuhl.de/ueber-dagstuhl/projekte/unknown-data/)
 
 
-![all icon](/images/all_pic.png)
+![all icon](/images/all_pic2.png)
