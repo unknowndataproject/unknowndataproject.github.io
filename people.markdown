@@ -44,6 +44,9 @@ the highest scientific caliber at Schloss Dagstuhl. It also promotes
 and supports continuing and advanced academic education and the
 transfer of knowledge between academia and industry.
 
+[HHU – Heinrich-Heine-Universität Düsseldorf](https://www.hhu.de/en/)
+, The Rectorate, the Central University Administration (ZUV), the University Council, the Senate as well as the Central Operating Units and scientific institutions form the core organisational structure at HHU.
+
 
 ## Project Team
 
@@ -74,3 +77,9 @@ transfer of knowledge between academia and industry.
 | *[Dr. Marcel R. Ackermann](https://www.dagstuhl.de/ueber-dagstuhl/organisation/marcel-r-ackermann/)* |
 |:-------------------------:|
 |![Marcel_photo](https://www.dagstuhl.de/typo3temp/pics/fa14e006f0.jpg)|
+
+### HHU
+
+[Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze) | [Lu Gan](lu.gan@insa-lyon.fr)
+:-------------------------:|:-------------------------:
+![pic111](https://gris.gesis.org/files/photos/1061.jpg)| ![Lu Gan](/images/hhu_logo.png)
