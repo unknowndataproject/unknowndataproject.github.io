@@ -62,7 +62,7 @@ transfer of knowledge between academia and industry.
 
 |Chandrika Sundakampalayam Paramasivam                                                                |
 |:-------------------------:|
-|![Chandu_photo](/images/Chandu_photo.png | height=300)          |
+|![Chandu_photo](/images/Chandu_photo.png)          |
 
 ### IBI
 
@@ -74,11 +74,11 @@ transfer of knowledge between academia and industry.
 
 |[Dr. Marcel R. Ackermann](https://dagstuhl.de/ackermann)       |  Benedikt Maria Beckermann |
 |:-------------------------:|:-------------------------:|
-|![Marcel_photo](/images/MRA_photo.png | height=300)    |  ![Bene_photo](/images/no_photo.png | height=300)|
+|![Marcel_photo](/images/MRA_photo.png)    |  ![Bene_photo](/images/no_photo.png)|
 
 |Martin Blum                                                    |
 |:-------------------------:|
-|![Martin_photo](/images/no_photo.png | height=300)     |
+|![Martin_photo](/images/no_photo.png)     |
 
 ### HHU
 
