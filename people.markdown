@@ -84,4 +84,4 @@ transfer of knowledge between academia and industry.
 
 [Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze) | [Lu Gan](lu.gan@insa-lyon.fr)
 :-------------------------:|:-------------------------:
-![pic111](https://gris.gesis.org/files/photos/1061.jpg)| ![Lu Gan](/images/1516871931422.jpeg)
+![pic111](https://gris.gesis.org/files/photos/1061.jpg)| ![Lu Gan](/images/1516871931422.jpeg =100x)
