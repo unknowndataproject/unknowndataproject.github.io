@@ -68,13 +68,13 @@ transfer of knowledge between academia and industry.
 
 |[Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)| Sebastian Tiesler |
 |:-------------------------:|:-------------------------:|
-|![Robert_photo](https://amor.cms.hu-berlin.de/~jaeschkr/img/me.jpg)|<img alt="Sebastian_photo" src="/images/no_photo.png" height="230" />|
+|<img alt="Robert_photo" src="https://amor.cms.hu-berlin.de/~jaeschkr/img/me.jpg" height="300" /> |<img alt="Sebastian_photo" src="/images/no_photo.png" height="300" /> |
 
 ### LZI
 
 |[Dr. Marcel R. Ackermann](https://dagstuhl.de/ackermann)       |  Benedikt Maria Beckermann |
 |:-------------------------:|:-------------------------:|
-|<img alt="Marcel_photo" src="/images/MRA_photo.jpg" height="300" />  |  <img alt="Bene_photo" src="/images/Bene_photo.jpg" height="300" />  |
+|<img alt="Marcel_photo" src="/images/MRA_photo.jpg" height="300" /> | <img alt="Bene_photo" src="/images/Bene_photo.jpg" height="300" />  |
 
 |Martin Blum                                                    |
 |:-------------------------:|
@@ -84,4 +84,4 @@ transfer of knowledge between academia and industry.
 
 [Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze) | [Lu Gan](lu.gan@insa-lyon.fr)
 :-------------------------:|:-------------------------:
-![pic111](https://gris.gesis.org/files/photos/1061.jpg)| ![Lu Gan](/images/1516871931422.jpeg)
+![pic111](https://gris.gesis.org/files/photos/1061.jpg)| <img alt="LuGan_photo" src="/images/1516871931422.jpeg" height="300" />
