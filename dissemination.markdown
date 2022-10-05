@@ -9,7 +9,7 @@ This page lists publications and other works created during the project.
 
 # Code
 
-* see https://github.com/unknowndataproject
+* see [GitHub](https://github.com/unknowndataproject)
 
 # Publications
 
