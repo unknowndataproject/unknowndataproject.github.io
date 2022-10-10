@@ -60,7 +60,7 @@ transfer of knowledge between academia and industry.
 |:-------------------------:|:-------------------------:|
 |![Brigitte_photo](https://gris.gesis.org/files/photos/684.jpg)  |  ![Yousef_photo](https://gris.gesis.org/files/photos/1161.jpg)    |
 
-|Chandrika Sundakampalayam Paramasivam                                                                |
+|Chandrika Sundakampalayam Paramasivam(https://de.linkedin.com/in/chandrika-s-p-523771130)                                                              |
 |:-------------------------:|
 |<img alt="Chandu_photo" src="/images/Chandu_photo.png" height="300" />          |
 
