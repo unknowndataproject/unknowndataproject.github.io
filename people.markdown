@@ -62,7 +62,7 @@ transfer of knowledge between academia and industry.
 
 |Chandrika Sundakampalayam Paramasivam                                                                |
 |:-------------------------:|
-|![Chandu_photo](/images/Chandu_photo.png)          |
+|<img alt="Chandu_photo" src="/images/Chandu_photo.png" height="300" />          |
 
 ### IBI
 
