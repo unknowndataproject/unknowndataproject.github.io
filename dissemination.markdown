@@ -19,4 +19,6 @@ This page lists publications and other works created during the project.
    Workshop](https://fox.cs.vt.edu/wadl2022.html) at
    JCDL*, 2022. [[BibTeX](https://www.bibsonomy.org/bib/publication/e572167f242ffe568758e91005071d41/jaeschke)
    |
-   [BibSonomy](https://www.bibsonomy.org/publication/e572167f242ffe568758e91005071d41/jaeschke)]
+   [BibSonomy](https://www.bibsonomy.org/publication/e572167f242ffe568758e91005071d41/jaeschke)
+   |
+   [pdf](https://github.com/unknowndataproject/publications/blob/main/WADL2022_paper_519.pdf)]
