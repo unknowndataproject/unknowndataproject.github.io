@@ -24,8 +24,8 @@ This page lists publications and other works created during the project.
    [pdf](https://github.com/unknowndataproject/publications/blob/main/WADL2022_paper_519.pdf)]
    
 2. Younes, Y., Mathiak, B.: **Handling Class Imbalance when Detecting Dataset Mentions with Pre-trained Language Models**. 
-   *Proceedings of the [Fifth International Conference on Natural Language and Speech Processing]([https://www.icnlsp.org/2022publication/]) at
-   ICNLSP*, 2022. 
+   *Proceedings of the [Fifth International Conference on Natural Language and Speech Processing]
+   (ICNLSP)([https://www.icnlsp.org/2022publication/])*, 2022. 
    |
    [pdf](https://github.com/unknowndataproject/publications/blob/main/ICNLSP2022_paper.pdf)]
 
