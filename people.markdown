@@ -73,6 +73,7 @@ transfer of knowledge between academia and industry.
 |Jonathan Lüpfert                                               |
 |:-------------------------:|
 |<img alt="Jonathan_photo" src="/images/no_photo.png" height="300" />  |
+
 ### LZI
 
 |[Dr. Marcel R. Ackermann](https://dagstuhl.de/ackermann)       |  Benedikt Maria Beckermann |
