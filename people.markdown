@@ -45,7 +45,7 @@ and supports continuing and advanced academic education and the
 transfer of knowledge between academia and industry.
 
 [HHU – Heinrich-Heine-Universität Düsseldorf](https://www.hhu.de/en/)
-, The Rectorate, the Central University Administration (ZUV), the University Council, the Senate as well as the Central Operating Units and scientific institutions form the core organisational structure at HHU.
+Our research at the intersection of semantic technologies, information retrieval and artificial intelligence aims at improving usability of heterogeneous data, information and knowledge on the web. In particular, we develop methods and tools for retrieval, extraction and verification of entity-centric knowledge, facts or claims, for linking and semantic enrichment of large corpora, such as Web crawls or bibliographic archives) or, to automatically understand, classify and support user’s search and navigation behavior.
 
 
 ## Project Team
