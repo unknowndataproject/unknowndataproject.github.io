@@ -30,3 +30,5 @@ This page lists publications and other works created during the project.
 
 3. Younes, Y., Scherp, A.: **Question Answering Versus Named Entity Recognition for Extracting Unknown Datasets**. IEEE Access Journal, 2023. 
    [[pdf](https://github.com/unknowndataproject/publications/blob/main/QA_vs_NER_for_Extracting_Unknown_Datasets.pdf)]
+
+4. Otto, W., Zloch, M., Gan, L., Karmakar, S., Dietze, S.: **GSAP-NER: A Novel Task, Corpus, and Baseline for Scholarly Entity Extraction Focused on Machine Learning Models and Datasets**. Findings of EMNLP 2023. 
