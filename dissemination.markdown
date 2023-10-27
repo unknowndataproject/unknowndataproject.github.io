@@ -28,3 +28,5 @@ This page lists publications and other works created during the project.
    (ICNLSP)*, 2022. 
    [[pdf](https://github.com/unknowndataproject/publications/blob/main/ICNLSP2022_paper.pdf)]
 
+3. Younes, Y., Scherp, A.: **Question Answering Versus Named Entity Recognition for Extracting Unknown Datasets**. IEEE Access Journal, 2023. 
+   [[pdf](https://github.com/unknowndataproject/publications/blob/main/QA_vs_NER_for_Extracting_Unknown_Datasets.pdf)]
