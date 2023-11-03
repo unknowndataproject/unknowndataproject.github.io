@@ -79,10 +79,6 @@ transfer of knowledge between academia and industry.
 |:-------------------------:|:-------------------------:|
 |<img alt="Marcel_photo" src="/images/MRA_photo.jpg" height="300" /> | <img alt="Bene_photo" src="/images/Bene_photo.jpg" height="300" />  |
 
-|Martin Blum                                                    |
-|:-------------------------:|
-|<img alt="Martin_photo" src="/images/no_photo.png" height="300" />  |
-
 ### HHU
 
 [Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze) | [Lu Gan](lu.gan@insa-lyon.fr)
