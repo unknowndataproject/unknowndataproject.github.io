@@ -65,7 +65,7 @@ transfer of knowledge between academia and industry.
 
 ### IBI
 
-|[Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)| Sebastian Tiesler |
+|[Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)| [Sebastian Tiesler](https://www.ibi.hu-berlin.de/de/institut/personen/tiesler/) |
 |:-------------------------:|:-------------------------:|
 |<img alt="Robert_photo" src="https://amor.cms.hu-berlin.de/~jaeschkr/img/me.jpg" height="300" /> |<img alt="Sebastian_photo" src="/images/no_photo.png" height="300" /> |
 
