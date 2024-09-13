@@ -82,5 +82,5 @@ transfer of knowledge between academia and industry.
 ### HHU
 
 [Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze) | [Lu Gan](lu.gan@insa-lyon.fr)
-:-------------------------:|:-------------------------:|
+:-------------------------:|:-------------------------:
 |<img alt="Dietze_Stefan_photo" src="/images/Dietze_Stefan_photo.png" height="300" />| <img alt="LuGan_photo" src="/images/1516871931422.jpeg" height="300" />
