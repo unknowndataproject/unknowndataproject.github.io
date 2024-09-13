@@ -53,11 +53,11 @@ transfer of knowledge between academia and industry.
 
 |[Prof. Dr. Stefan Dietze](https://www.gesis.org/en/institute/staff/person/stefan.dietze)             |  [Prof. Dr. Alexia Katsanidou](https://www.gesis.org/en/institute/staff/person/alexia.katsanidou)      |
 |:-------------------------:|:-------------------------:|
-|![Stefan_photo](https://gris.gesis.org/files/photos/1061.jpg)  |  ![Alexia_photo](https://gris.gesis.org/files/photos/683.jpg) |
+|<img alt="Dietze_Stefan_photo" src="/images/Dietze_Stefan_photo.png" height="300" />  |  <img alt="Katsanidou_Alexia_photo" src="/images/Katsanidou_Alexia_photo.png" height="300" /> |
 
 |[Dr. Brigitte Mathiak](https://www.gesis.org/en/institute/staff/person/brigitte.mathiak)             |  [Yousef Younes](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Yousef.Younes)           |
 |:-------------------------:|:-------------------------:|
-|![Brigitte_photo](https://gris.gesis.org/files/photos/684.jpg)  |  ![Yousef_photo](https://gris.gesis.org/files/photos/1161.jpg)    |
+|<img alt="Mathiak_Brigitte_photo" src="/images/Mathiak_Brigitte_photo.png" height="300" />  |  <img alt="Younes_Yousef_photo" src="/images/no_photo.png" height="300" />    |
 
 |[Chandrika Sundakampalayam Paramasivam](https://de.linkedin.com/in/chandrika-s-p-523771130)       |
 |:-------------------------:|
@@ -82,5 +82,5 @@ transfer of knowledge between academia and industry.
 ### HHU
 
 [Prof. Dr. Stefan Dietze ](https://www.gesis.org/en/institute/staff/person/stefan.dietze) | [Lu Gan](lu.gan@insa-lyon.fr)
-:-------------------------:|:-------------------------:
-![pic111](https://gris.gesis.org/files/photos/1061.jpg)| <img alt="LuGan_photo" src="/images/1516871931422.jpeg" height="300" />
+:-------------------------:|:-------------------------:|
+|<img alt="Dietze_Stefan_photo" src="/images/Dietze_Stefan_photo.png" height="300" />| <img alt="LuGan_photo" src="/images/1516871931422.jpeg" height="300" />
