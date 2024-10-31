@@ -36,5 +36,5 @@ Further Web sites:
 1. at [GESIS](https://www.gesis.org/forschung/drittmittelprojekte/projektuebersicht-drittmittel/avh-potenzial-1)
 2. at [LZI](https://www.dagstuhl.de/ueber-dagstuhl/projekte/unknown-data/)
 
-
+![lzi](/images/lzi-logo.png)
 ![all icon](/images/all_pic2.png)
