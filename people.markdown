@@ -51,17 +51,14 @@ transfer of knowledge between academia and industry.
 
 ### GESIS
 
-|[Prof. Dr. Stefan Dietze](https://www.gesis.org/en/institute/staff/person/stefan.dietze)             |  [Prof. Dr. Alexia Katsanidou](https://www.gesis.org/en/institute/staff/person/alexia.katsanidou)      |
+|  [Prof. Dr. Alexia Katsanidou](https://www.gesis.org/en/institute/staff/person/alexia.katsanidou)  |[Dr. Brigitte Mathiak](https://www.gesis.org/en/institute/staff/person/brigitte.mathiak)             |
 |:-------------------------:|:-------------------------:|
-|<img alt="Dietze_Stefan_photo" src="/images/Dietze_Stefan_photo.png" height="300" />  |  <img alt="Katsanidou_Alexia_photo" src="/images/Katsanidou_Alexia_photo.png" height="300" /> |
+|  <img alt="Katsanidou_Alexia_photo" src="/images/Katsanidou_Alexia_photo.png" height="300" /> |<img alt="Mathiak_Brigitte_photo" src="/images/Mathiak_Brigitte_photo.png" height="300" />  |
 
-|[Dr. Brigitte Mathiak](https://www.gesis.org/en/institute/staff/person/brigitte.mathiak)             |  [Yousef Younes](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Yousef.Younes)           |
+|  [Yousef Younes](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Yousef.Younes)           |[Chandrika Sundakampalayam Paramasivam](https://de.linkedin.com/in/chandrika-s-p-523771130)       |
 |:-------------------------:|:-------------------------:|
-|<img alt="Mathiak_Brigitte_photo" src="/images/Mathiak_Brigitte_photo.png" height="300" />  |  <img alt="Younes_Yousef_photo" src="/images/no_photo.png" height="300" />    |
+|  <img alt="Younes_Yousef_photo" src="/images/no_photo.png" height="300" />    |<img alt="Chandu_photo" src="/images/Chandu_photo.png" height="300" />          |
 
-|[Chandrika Sundakampalayam Paramasivam](https://de.linkedin.com/in/chandrika-s-p-523771130)       |
-|:-------------------------:|
-|<img alt="Chandu_photo" src="/images/Chandu_photo.png" height="300" />          |
 
 ### IBI
 
